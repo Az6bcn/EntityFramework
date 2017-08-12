@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VidzyModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Genre">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Byte" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Videos" Relationship="VidzyModel.FK_Videos_Genres" FromRole="Genre" ToRole="Video" />
+  </EntityType>
+  <EntityType Name="Video">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ReleaseDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="GenreId" Type="Byte" />
+    <NavigationProperty Name="Genre" Relationship="VidzyModel.FK_Videos_Genres" FromRole="Video" ToRole="Genre" />
+    <Property Name="Classification" Type="VidzyModel.Classification" />
+  </EntityType>
+  <EntityContainer Name="VidzyEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Genres" EntityType="Self.Genre" />
+    <EntitySet Name="Videos" EntityType="Self.Video" />
+    <FunctionImport Name="AddVideo">
+      <Parameter Name="Name" Mode="In" Type="String" />
+      <Parameter Name="ReleaseDate" Mode="In" Type="DateTime" />
+      <Parameter Name="Genre" Mode="In" Type="String" />
+      <Parameter Name="GenreId" Mode="In" Type="Byte" />
+    </FunctionImport>
+    <AssociationSet Name="FK_Videos_Genres" Association="VidzyModel.FK_Videos_Genres">
+      <End Role="Genre" EntitySet="Genres" />
+      <End Role="Video" EntitySet="Videos" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK_Videos_Genres">
+    <End Type="VidzyModel.Genre" Role="Genre" Multiplicity="0..1" />
+    <End Type="VidzyModel.Video" Role="Video" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genre">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Video">
+        <PropertyRef Name="GenreId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EnumType Name="Classification" a:ExternalTypeName="Vidzy.Classification" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" UnderlyingType="Byte" />
+</Schema>

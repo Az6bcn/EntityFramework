@@ -1,0 +1,36 @@
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\bin\Debug\Vidzy.exe.config
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\bin\Debug\Vidzy.exe
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\bin\Debug\Vidzy.pdb
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\bin\Debug\EntityFramework.dll
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\bin\Debug\EntityFramework.xml
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.exe
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.pdb
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.InitialModel.resources
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.GenerateResource.Cache
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.PopulateGenresTable.resources
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddGenreToVideosTable.resources
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddClassificationToVideosTable.resources
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.EnhanceVideosTable.resources
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.EnhanceGenresTable.resources
+C:\Projects\EntityFramework\Exercises\Section4\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddTags.resources
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\bin\Debug\Vidzy.exe.config
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\bin\Debug\Vidzy.exe
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\bin\Debug\Vidzy.pdb
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\bin\Debug\EntityFramework.dll
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\bin\Debug\EntityFramework.xml
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.csprojResolveAssemblyReference.cache
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.InitialModel.resources
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.PopulateGenresTable.resources
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddGenreToVideosTable.resources
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddClassificationToVideosTable.resources
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.EnhanceVideosTable.resources
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.EnhanceGenresTable.resources
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.Migrations.AddTags.resources
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.csproj.GenerateResource.Cache
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.exe
+C:\Users\Azeez Olusegun\Desktop\Mosh EF\Exercises\Section-6-Exercise-Files\Vidzy\Vidzy\obj\Debug\Vidzy.pdb

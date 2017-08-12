@@ -1,0 +1,12 @@
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\Queries.exe.config
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\Queries.exe
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\Queries.pdb
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.dll
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.xml
+C:\Projects\EntityFramework\Queries\Queries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.exe
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.pdb
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.Migrations.InitialMigration.resources
+C:\Projects\EntityFramework\Queries\Queries\obj\Debug\Queries.csproj.GenerateResource.Cache
